@@ -1,4 +1,4 @@
-# randomstuff
+# Random Stuff
 Just some random Stuff, I will need to refer from time to time
 
 ## Generate CSR
